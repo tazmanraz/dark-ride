@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\cylMove.js">
+    <Files>
+      <File FileName="Assets\ZigFu\Scripts\Zig.cs" Line="30" Column="1" />
+      <File FileName="Assets\WaveTest.cs" Line="6" Column="35" />
+      <File FileName="Assets\handUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\headStatus.cs" Line="5" Column="1" />
+      <File FileName="Assets\destroyBall.cs" Line="1" Column="1" />
+      <File FileName="Assets\cylMove.js" Line="1" Column="1" />
+      <File FileName="Assets\sphereMove.js" Line="5" Column="22" />
+      <File FileName="Assets\colTest.js" Line="1" Column="26" />
+      <File FileName="Assets\scoreTest.js" Line="4" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="cylMove.js" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
