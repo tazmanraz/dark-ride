@@ -7,9 +7,13 @@ This was done by applying gesture recognition algorithms and forced perspectives
 You can find the final report in the respective folder of this repository for full details. There was a lot of self learning we had to do along with learning how Unity2D works such as Maya for building models and learning C# which was actually not that bad due to our extensive courses on learning OOP practises with Java.
 
 ## Features
-- Squinching effects to give a forced perspective
-- Gesture recognitions based on tracking key figure components the Kinect was able to track such as
-- Hardware distance tracking with a microcontroller to help trigger certain events. 
+- Squinching effects. [Click here for video demo](https://youtu.be/ch8Ca5AtgxU)
+!["Squinching"](https://github.com/tazmanraz/dark-ride/blob/master/docs/03.JPG)
+- Gesture recognition with the Kinect. [Click here for demo](https://youtu.be/lJWxu4BUXDc)
+!["Gesture"](https://github.com/tazmanraz/dark-ride/blob/master/docs/02.JPG)
+- [Position Tracking](https://youtu.be/Mfo76ZJf1GE)
+!["Position"](https://github.com/tazmanraz/dark-ride/blob/master/docs/01.JPG)
+ 
 
 ## Dependencies, Libraries, and Wrappers
 
